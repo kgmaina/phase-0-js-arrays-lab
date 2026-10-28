@@ -1,4 +1,20 @@
-// Write your code here
+const products = ["Laptop", "Phone", "Headphones", "Monitor"];
+function logFirstProduct() {
+console.log(products[0]);
+logFirstProduct();
+};
+function addProduct() {
+products.push();
+addProduct();
+};
+function updateProductName() {
+  products [0] = "";
+  updateProductName();
+};
+function removeLastProduct() {
+  products.pop();
+  removeLastProduct();
+};
 
 
 
